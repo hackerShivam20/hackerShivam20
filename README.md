@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me st19932000@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: lazy
 
 <!---
